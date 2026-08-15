@@ -1,5 +1,5 @@
 {
-    "task_id": "001",
-    "type": "PING",
-    "created": "2026-08-14T16:00:00Z"
+    "task_id": "002",
+    "type": "REVERSE_SHELL",
+    "created": "2026-08-15T13:00:00Z"
 }
