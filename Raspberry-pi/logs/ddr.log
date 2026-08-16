@@ -1,0 +1,737 @@
+2026-08-15 16:21:06 INFO task_received task_id: 002 task_type: REVERSE_SHELL
+2026-08-15 17:50:28 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-15 18:04:47 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-15 18:05:08 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-15 23:11:29 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-15 23:11:46 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-15 23:12:07 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-15 23:12:22 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-15 23:12:39 INFO POLL FAILED
+2026-08-16 12:33:53 INFO POLL FAILED
+2026-08-16 12:34:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:34:46 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:35:13 INFO POLL FAILED
+2026-08-16 12:35:33 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:35:54 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:36:18 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:36:38 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:36:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:37:32 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:37:57 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:38:23 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:38:50 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:39:15 INFO POLL FAILED
+2026-08-16 12:39:36 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:39:57 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:40:12 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:40:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:40:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:41:20 INFO POLL FAILED
+2026-08-16 12:41:36 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:41:52 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:42:14 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:42:39 INFO POLL FAILED
+2026-08-16 12:42:59 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:43:21 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:43:46 INFO POLL FAILED
+2026-08-16 12:44:03 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:44:28 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:44:59 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:45:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:45:45 INFO POLL FAILED
+2026-08-16 12:46:06 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:46:31 INFO POLL FAILED
+2026-08-16 12:46:56 INFO POLL FAILED
+2026-08-16 12:47:21 INFO POLL FAILED
+2026-08-16 12:47:41 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:48:07 INFO POLL FAILED
+2026-08-16 12:48:27 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:48:52 INFO POLL FAILED
+2026-08-16 12:49:13 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:49:38 INFO POLL FAILED
+2026-08-16 12:50:03 INFO POLL FAILED
+2026-08-16 12:50:21 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:50:49 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:51:14 INFO POLL FAILED
+2026-08-16 12:51:30 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:51:50 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:52:16 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:52:36 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:53:02 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:53:27 INFO POLL FAILED
+2026-08-16 12:53:53 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:54:15 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:54:31 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:54:52 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:55:10 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:55:36 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:55:54 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:56:15 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:56:37 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:56:52 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:57:14 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:57:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:58:04 INFO POLL FAILED
+2026-08-16 12:58:29 INFO POLL FAILED
+2026-08-16 12:58:45 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:59:06 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 12:59:32 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:00:02 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:00:34 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:00:51 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:01:17 INFO POLL FAILED
+2026-08-16 13:01:38 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:01:59 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:02:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:02:56 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:03:16 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:03:41 INFO POLL FAILED
+2026-08-16 13:04:02 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:04:27 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:04:48 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:05:13 INFO POLL FAILED
+2026-08-16 13:05:34 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:05:49 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:06:14 INFO POLL FAILED
+2026-08-16 13:06:31 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:06:46 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:07:09 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:07:34 INFO POLL FAILED
+2026-08-16 13:08:08 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:08:25 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:08:50 INFO POLL FAILED
+2026-08-16 13:09:10 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:09:31 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:09:56 INFO POLL FAILED
+2026-08-16 13:10:19 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:10:44 INFO POLL FAILED
+2026-08-16 13:11:09 INFO POLL FAILED
+2026-08-16 13:11:25 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:11:50 INFO POLL FAILED
+2026-08-16 13:12:06 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:12:27 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:12:52 INFO POLL FAILED
+2026-08-16 13:13:17 INFO POLL FAILED
+2026-08-16 13:13:33 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:13:49 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:14:14 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:14:34 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:14:59 INFO POLL FAILED
+2026-08-16 13:15:24 INFO POLL FAILED
+2026-08-16 13:15:53 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:16:18 INFO POLL FAILED
+2026-08-16 13:16:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:17:10 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:17:27 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:17:52 INFO POLL FAILED
+2026-08-16 13:18:17 INFO POLL FAILED
+2026-08-16 13:18:37 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:19:03 INFO POLL FAILED
+2026-08-16 13:19:23 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:19:49 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:20:14 INFO POLL FAILED
+2026-08-16 13:20:40 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:21:11 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:21:27 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:21:47 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:22:13 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:22:38 INFO POLL FAILED
+2026-08-16 13:22:59 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:23:24 INFO POLL FAILED
+2026-08-16 13:23:45 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:24:10 INFO POLL FAILED
+2026-08-16 13:24:26 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:24:42 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:25:02 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:25:19 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:25:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:25:51 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:26:07 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:26:32 INFO POLL FAILED
+2026-08-16 13:26:57 INFO POLL FAILED
+2026-08-16 13:27:22 INFO POLL FAILED
+2026-08-16 13:27:38 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:28:04 INFO POLL FAILED
+2026-08-16 13:28:24 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:28:40 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:29:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:29:23 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:29:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:29:54 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:30:11 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:30:34 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:30:54 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:31:09 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:31:25 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:31:40 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:32:05 INFO POLL FAILED
+2026-08-16 13:32:26 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:32:56 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:33:16 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:33:37 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:34:05 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:34:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:34:50 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:35:15 INFO POLL FAILED
+2026-08-16 13:35:31 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:35:47 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:36:09 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:36:34 INFO POLL FAILED
+2026-08-16 13:36:59 INFO POLL FAILED
+2026-08-16 13:37:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:37:45 INFO POLL FAILED
+2026-08-16 13:38:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:38:17 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:38:37 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:38:57 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:39:13 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:39:38 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:39:54 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:40:10 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:40:36 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:40:51 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:41:12 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:41:32 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:41:57 INFO POLL FAILED
+2026-08-16 13:42:12 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:42:28 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:42:53 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:43:14 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:43:29 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:43:55 INFO POLL FAILED
+2026-08-16 13:44:15 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:44:40 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:44:56 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:45:11 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:45:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:45:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:46:20 INFO POLL FAILED
+2026-08-16 13:46:36 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:46:51 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:47:06 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:47:28 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:47:43 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:47:59 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:48:19 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:48:40 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:49:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:49:27 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:49:43 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:50:08 INFO POLL FAILED
+2026-08-16 13:50:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:50:56 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:51:16 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:51:41 INFO POLL FAILED
+2026-08-16 13:52:06 INFO POLL FAILED
+2026-08-16 13:52:26 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:52:42 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:52:57 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:53:19 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:53:34 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:53:59 INFO POLL FAILED
+2026-08-16 13:54:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:54:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:54:51 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:55:12 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:55:32 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:55:58 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:56:25 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:56:40 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:57:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:57:21 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:57:41 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:58:02 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:58:17 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:58:33 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:58:53 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:59:09 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 13:59:34 INFO POLL FAILED
+2026-08-16 13:59:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:00:15 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:00:40 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:01:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:01:16 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:01:32 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:01:50 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:02:16 INFO POLL FAILED
+2026-08-16 14:02:36 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:02:57 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:03:23 INFO POLL FAILED
+2026-08-16 14:03:48 INFO POLL FAILED
+2026-08-16 14:04:08 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:04:23 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:04:48 INFO POLL FAILED
+2026-08-16 14:05:05 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:05:22 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:05:47 INFO POLL FAILED
+2026-08-16 14:06:10 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:06:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:07:06 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:07:26 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:07:51 INFO POLL FAILED
+2026-08-16 14:08:07 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:08:22 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:08:47 INFO POLL FAILED
+2026-08-16 14:09:12 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:09:28 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:10:08 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:10:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:10:58 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:11:25 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:11:50 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:12:07 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:12:32 INFO POLL FAILED
+2026-08-16 14:12:59 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:13:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:13:48 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:14:10 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:14:25 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:14:50 INFO POLL FAILED
+2026-08-16 14:15:16 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:15:32 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:15:57 INFO POLL FAILED
+2026-08-16 14:16:14 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:16:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:16:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:17:21 INFO POLL FAILED
+2026-08-16 14:17:41 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:18:02 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:18:23 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:18:38 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:19:04 INFO POLL FAILED
+2026-08-16 14:19:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:19:46 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:20:06 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:20:22 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:20:37 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:20:58 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:21:23 INFO POLL FAILED
+2026-08-16 14:21:44 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:22:00 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:22:21 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:22:41 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:23:06 INFO POLL FAILED
+2026-08-16 14:23:33 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:23:58 INFO POLL FAILED
+2026-08-16 14:24:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:24:40 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:25:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:25:21 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:25:42 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:25:58 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:26:18 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:26:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:26:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:27:20 INFO POLL FAILED
+2026-08-16 14:27:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:28:17 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:28:37 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:28:53 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:29:18 INFO POLL FAILED
+2026-08-16 14:29:42 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:30:07 INFO POLL FAILED
+2026-08-16 14:30:24 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:30:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:31:04 INFO POLL FAILED
+2026-08-16 14:31:25 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:31:50 INFO POLL FAILED
+2026-08-16 14:32:06 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:32:27 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:32:52 INFO POLL FAILED
+2026-08-16 14:33:22 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:33:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:34:03 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:34:24 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:34:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:35:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:35:26 INFO POLL FAILED
+2026-08-16 14:35:42 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:36:07 INFO POLL FAILED
+2026-08-16 14:36:28 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:36:49 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:37:14 INFO POLL FAILED
+2026-08-16 14:37:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:38:04 INFO POLL FAILED
+2026-08-16 14:38:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:38:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:38:51 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:39:21 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:39:41 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:40:12 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:40:32 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:40:49 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:41:14 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:41:39 INFO POLL FAILED
+2026-08-16 14:42:06 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:42:40 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:43:00 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:43:21 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:43:37 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:44:02 INFO POLL FAILED
+2026-08-16 14:44:22 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:44:48 INFO POLL FAILED
+2026-08-16 14:45:13 INFO POLL FAILED
+2026-08-16 14:45:43 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:46:08 INFO POLL FAILED
+2026-08-16 14:46:33 INFO POLL FAILED
+2026-08-16 14:46:58 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:47:18 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:47:41 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:48:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:48:17 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:48:43 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:49:00 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:49:25 INFO POLL FAILED
+2026-08-16 14:49:45 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:50:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:50:21 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:50:37 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:51:04 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:51:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:51:41 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:52:02 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:52:19 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:52:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:52:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:53:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:53:40 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:53:56 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:54:17 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:54:42 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:55:08 INFO POLL FAILED
+2026-08-16 14:55:34 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:55:59 INFO POLL FAILED
+2026-08-16 14:56:19 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:56:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:57:00 INFO POLL FAILED
+2026-08-16 14:57:21 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:57:37 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:57:58 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:58:28 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:58:48 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:59:10 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 14:59:35 INFO POLL FAILED
+2026-08-16 14:59:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:00:16 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:00:31 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:00:52 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:01:17 INFO POLL FAILED
+2026-08-16 15:01:42 INFO POLL FAILED
+2026-08-16 15:02:00 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:02:19 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:02:45 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:03:11 INFO POLL FAILED
+2026-08-16 15:03:32 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:04:04 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:04:29 INFO POLL FAILED
+2026-08-16 15:04:54 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:05:15 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:05:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:05:56 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:06:12 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:06:28 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:06:53 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:07:18 INFO POLL FAILED
+2026-08-16 15:07:43 INFO POLL FAILED
+2026-08-16 15:08:09 INFO POLL FAILED
+2026-08-16 15:08:29 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:08:46 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:09:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:09:21 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:09:37 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:09:57 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:10:13 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:10:29 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:11:00 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:11:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:11:36 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:11:56 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:12:21 INFO POLL FAILED
+2026-08-16 15:12:42 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:12:57 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:13:22 INFO POLL FAILED
+2026-08-16 15:13:45 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:14:11 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:14:31 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:14:47 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:15:04 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:15:19 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:15:37 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:16:08 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:16:33 INFO POLL FAILED
+2026-08-16 15:16:48 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:17:09 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:17:36 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:17:57 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:18:17 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:18:43 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:19:08 INFO POLL FAILED
+2026-08-16 15:19:34 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:19:59 INFO POLL FAILED
+2026-08-16 15:20:15 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:20:50 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:21:11 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:21:36 INFO POLL FAILED
+2026-08-16 15:21:51 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:22:17 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:22:38 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:23:03 INFO POLL FAILED
+2026-08-16 15:23:29 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:23:44 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:24:00 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:24:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:24:45 INFO POLL FAILED
+2026-08-16 15:25:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:25:21 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:25:41 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:26:02 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:26:23 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:26:38 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:27:00 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:27:16 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:27:36 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:28:01 INFO POLL FAILED
+2026-08-16 15:28:27 INFO POLL FAILED
+2026-08-16 15:28:47 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:29:10 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:29:32 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:29:47 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:30:12 INFO POLL FAILED
+2026-08-16 15:30:27 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:30:48 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:31:03 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:31:24 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:31:45 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:32:16 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:32:37 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:32:58 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:33:18 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:33:43 INFO POLL FAILED
+2026-08-16 15:34:08 INFO POLL FAILED
+2026-08-16 15:34:29 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:34:59 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:35:24 INFO POLL FAILED
+2026-08-16 15:35:40 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:36:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:36:27 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:36:47 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:37:15 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:37:40 INFO POLL FAILED
+2026-08-16 15:37:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:38:16 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:38:51 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:39:16 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:39:41 INFO POLL FAILED
+2026-08-16 15:40:12 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:40:37 INFO POLL FAILED
+2026-08-16 15:40:57 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:41:18 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:41:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:41:59 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:42:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:42:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:43:05 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:43:30 INFO POLL FAILED
+2026-08-16 15:43:50 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:44:16 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:44:31 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:44:57 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:45:34 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:45:54 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:46:22 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:46:38 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:47:03 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:47:23 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:47:44 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:48:09 INFO POLL FAILED
+2026-08-16 15:48:24 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:48:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:49:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:49:26 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:49:47 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:50:08 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:50:29 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:50:44 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:51:10 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:51:30 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:51:55 INFO POLL FAILED
+2026-08-16 15:52:11 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:52:36 INFO POLL FAILED
+2026-08-16 15:52:51 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:53:06 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:53:22 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:53:38 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:54:03 INFO POLL FAILED
+2026-08-16 15:54:24 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:54:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:55:04 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:55:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:55:51 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:56:12 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:56:37 INFO POLL FAILED
+2026-08-16 15:57:02 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:57:23 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:58:14 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:58:34 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:58:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 15:59:21 INFO POLL FAILED
+2026-08-16 15:59:41 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:00:06 INFO POLL FAILED
+2026-08-16 16:00:23 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:00:38 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:00:54 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:01:19 INFO POLL FAILED
+2026-08-16 16:01:34 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:02:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:02:21 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:02:36 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:02:52 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:03:07 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:03:23 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:03:38 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:03:59 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:04:14 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:04:29 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:04:49 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:05:13 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:05:50 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:06:05 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:06:25 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:06:50 INFO POLL FAILED
+2026-08-16 16:07:16 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:07:31 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:07:46 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:08:12 INFO POLL FAILED
+2026-08-16 16:08:32 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:08:48 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:09:03 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:09:28 INFO POLL FAILED
+2026-08-16 16:09:43 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:09:59 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:10:14 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:10:30 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:10:46 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:11:02 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:11:17 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:11:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:11:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:12:11 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:12:26 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:12:42 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:13:02 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:13:28 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:13:53 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:14:14 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:14:29 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:14:49 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:15:10 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:15:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:15:56 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:16:12 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:16:32 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:16:47 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:17:18 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:17:43 INFO POLL FAILED
+2026-08-16 16:17:58 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:18:13 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:18:40 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:19:00 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:19:25 INFO POLL FAILED
+2026-08-16 16:19:47 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:20:15 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:20:40 INFO POLL FAILED
+2026-08-16 16:20:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:21:24 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:21:50 INFO POLL FAILED
+2026-08-16 16:22:10 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:22:36 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:22:57 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:23:13 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:23:28 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:23:56 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:24:17 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:24:42 INFO POLL FAILED
+2026-08-16 16:24:59 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:25:14 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:25:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:26:02 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:26:22 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:26:43 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:26:58 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:27:23 INFO POLL FAILED
+2026-08-16 16:27:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:27:54 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:28:09 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:28:30 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:28:56 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:29:12 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:29:37 INFO POLL FAILED
+2026-08-16 16:29:59 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:30:15 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:30:30 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:30:46 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:31:14 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:31:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:32:02 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:32:22 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:32:53 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:33:15 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:33:40 INFO POLL FAILED
+2026-08-16 16:34:05 INFO POLL FAILED
+2026-08-16 16:34:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:34:45 INFO POLL FAILED
+2026-08-16 16:35:06 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:35:27 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:35:42 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:36:00 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:36:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:36:37 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:36:57 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:37:13 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:37:29 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:37:51 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:38:06 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:38:30 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:38:45 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:39:10 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:39:27 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:39:48 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:40:18 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:40:42 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:41:02 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:41:28 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:41:49 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:42:14 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:42:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:42:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:43:10 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:43:31 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:44:01 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:44:27 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:44:52 INFO POLL FAILED
+2026-08-16 16:45:12 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:45:32 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:45:48 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:46:05 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:46:20 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:46:35 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:46:53 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:47:08 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:47:33 INFO POLL FAILED
+2026-08-16 16:47:49 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:48:17 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:48:37 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:48:52 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:49:09 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:49:24 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:49:39 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:49:55 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:50:16 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:50:31 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:50:56 INFO POLL FAILED
+2026-08-16 16:51:12 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:51:29 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:51:44 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:51:59 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:52:21 INFO No new task task_id: 002 task_type: REVERSE_SHELL
+2026-08-16 16:52:42 INFO No new task task_id: 002 task_type: REVERSE_SHELL
