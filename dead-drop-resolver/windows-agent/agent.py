@@ -5,10 +5,10 @@ from dispatcher import select_task
 
 def main():
     print("Windows Agent initiated")
-    json_task = None
     while True:
-        json_task = get_task()
-        select_task(json_task)
+        task_id = int(get_task())
+        print(f"Task_id:{task_id}")
+        select_task(task_id)
         time.sleep(10)
 
 

